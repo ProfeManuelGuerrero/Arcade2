@@ -1,7 +1,7 @@
 {
   "name": "arcade",
-  "version": "0.1.0",
   "private": true,
+  "version": "0.1.0",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -16,7 +16,8 @@
     "@vitejs/plugin-react": "^4.0.0"
   },
   "engines": {
-    "node": "20.x"
+    "node": "24.x"
   }
 }
+
 
