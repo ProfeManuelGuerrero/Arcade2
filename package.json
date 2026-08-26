@@ -17,9 +17,6 @@
   },
   "engines": {
     "node": "24.x"
-  },
-  "allowScripts": {
-  "esbuild": "0.21.5"
   }
 }
 
